@@ -9,4 +9,6 @@ print("teammate4")
 print("hello It's Reza")
 print("sotoudeh")
 print("Rad")
+print("sotoudeh")
+print("Rad")
 
