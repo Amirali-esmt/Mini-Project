@@ -9,6 +9,6 @@ print("Niko")
 print("hello It's Reza")
 print("sotoudeh")
 print("Rad")
-print("sotoudeh")
-print("Rad")
+print("new last name")
+print("last name")
 
